@@ -1,4 +1,6 @@
-# 🎮 [L4D2] EXTERNAL CHEAT en C#
+# 🎮 [L4D2] EXTERNAL CHEAT en C# (OUTDATED)
+
+Repositorio Principal Con Ultimos Cambios & features = https://github.com/Russtels/l4d2External-ForDriver
 
 > ⚠️ **ADVERTENCIA DE USO**
 > Este proyecto fue creado con fines puramente educativos para investigar cómo las aplicaciones externas interactúan con otros procesos en memoria. El uso de este software en servidores de juego en línea protegidos **resultará en una prohibición permanente (VAC Ban)**. Úsalo bajo tu propio riesgo y exclusivamente en entornos controlados (partidas locales con bots o servidores inseguros).
